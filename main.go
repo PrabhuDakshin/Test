@@ -12,5 +12,5 @@ func main() {
 	A, _ := strconv.Atoi(a)
 	B, _ := strconv.Atoi(b)
 	ad.ADD(A, B)
-
 }
+
