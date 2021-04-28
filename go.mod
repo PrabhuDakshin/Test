@@ -1,3 +1,3 @@
-module github.com/PrabhuDakshin/Test
+module Test
 
 go 1.16

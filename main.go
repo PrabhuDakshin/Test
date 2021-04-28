@@ -1,7 +1,7 @@
 package main
 
 import (
-	ad "github.com/PrabhuDakshin/Test/add"
+	ad "Test/add"
 	"os"
 	"strconv"
 )
